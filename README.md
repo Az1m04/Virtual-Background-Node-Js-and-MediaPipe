@@ -18,4 +18,5 @@ background demo.jpg   // to replace backgound you want to use
 
 ## Output
 
-![demo](https://github.com/Az1m04/Virtual-Background-Node-Js-and-MediaPipe/assets/42888008/1d5b6d37-88c2-4fa7-bfa0-485a8b188383)
+![image](https://github.com/Az1m04/Virtual-Background-Node-Js-and-MediaPipe/assets/42888008/54ef86b0-da24-4f96-a04e-0c174b3d79f0)
+
